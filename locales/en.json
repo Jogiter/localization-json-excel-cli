@@ -1,0 +1,53 @@
+{
+  "home": {
+    "gameTag": "Demo",
+    "apiTitle": "Quick Access for Developers",
+    "apiDesc": "Games can be easily integrated with just a few lines of code. Developers can deliver faster using our APIs and focus on what matters",
+    "apiButton": "API Documentation",
+    "processTitle": "VDDGAMES docking process",
+    "processStep1": "Business docking",
+    "processStep2": "API docking",
+    "processStep3": "Verification Test",
+    "processStep4": "Start online",
+    "processButton": "View documentation"
+  },
+  "game": {
+    "aviator": "AVIATOR",
+    "hilo": "HILO",
+    "mines": "MINES",
+    "plinko": "PLINKO",
+    "hotline": "HOTLINE",
+    "goal": "GOAL",
+    "miniRoulette": "MINI ROULETTE",
+    "keno": "KENO",
+    "dice": "DICE",
+    "roulette": "ROULETTE",
+    "scratch": "SCRATCH OFF"
+  },
+  "common": {
+    "close": "Close"
+  },
+  "contact": {
+    "hello": "Hi",
+    "title": "Contact us",
+    "desc": "After receiving your application, we will contact you as soon as possible",
+    "form": {
+      "label1": "Name",
+      "placeholder1": "Enter your name",
+      "label2": "E-mail",
+      "placeholder2": "Enter your email",
+      "label3": "Message",
+      "placeholder3": "Leave what you want to say",
+      "submit": "Send"
+    },
+    "other": {
+      "title": "Other contact information",
+      "telegram": "Telegram",
+      "telegramDesc": "t.me/CS_9194",
+      "email": "E-mail",
+      "emailDesc": "vddcs9194{'@'}gmail.com"
+    },
+    "successMessage": "Submitted successfully",
+    "errorMessage": "Submission failed"
+  }
+}

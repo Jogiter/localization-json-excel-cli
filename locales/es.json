@@ -1,0 +1,53 @@
+{
+  "home": {
+    "gameTag": "Demostración",
+    "apiTitle": "Acceso Rápido para Desarrolladores",
+    "apiDesc": "La integración del juego es fácil con sólo unas pocas líneas de código. Los desarrolladores pueden usar nuestra API para realizar entregas más rápido y centrarse en lo que importa",
+    "apiButton": "Documentación API",
+    "processTitle": "Proceso de acoplamiento de VDDGAMES",
+    "processStep1": "Acoplamiento empresarial",
+    "processStep2": "Acoplamiento API",
+    "processStep3": "Prueba de verificación",
+    "processStep4": "Iniciar en línea",
+    "processButton": "Ver documentación"
+  },
+  "game": {
+    "aviator": "Aviador",
+    "hilo": "Hilo",
+    "mines": "Minas",
+    "plinko": "Plinko",
+    "hotline": "Línea directa",
+    "goal": "Meta",
+    "miniRoulette": "Mini Ruleta",
+    "keno": "Keno",
+    "dice": "Dados",
+    "roulette": "Ruleta",
+    "scratch": "Rasca y gana"
+  },
+  "common": {
+    "close": "Cerrar"
+  },
+  "contact": {
+    "hello": "Hola",
+    "title": "Contáctanos",
+    "desc": "Después de recibir tu solicitud, nos pondremos en contacto contigo lo antes posible.",
+    "form": {
+      "label1": "Nombre",
+      "placeholder1": "Ingresa tu nombre",
+      "label2": "Correo electrónico",
+      "placeholder2": "Ingresa tu correo electrónico",
+      "label3": "Mensaje",
+      "placeholder3": "Deja lo que quieres decir",
+      "submit": "Enviar"
+    },
+    "other": {
+      "title": "Otra información de contacto",
+      "telegram": "Telegram",
+      "telegramDesc": "t.me/CS_9194",
+      "email": "Correo electrónico",
+      "emailDesc": "vddcs9194{'@'}gmail.com"
+    },
+    "successMessage": "Envío exitoso",
+    "errorMessage": "Envío fallido"
+  }
+}

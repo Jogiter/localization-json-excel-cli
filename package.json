@@ -1,0 +1,8 @@
+{
+  "description": "",
+  "type": "module",
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "flat": "^6.0.1"
+  }
+}

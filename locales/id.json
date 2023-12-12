@@ -1,0 +1,53 @@
+{
+  "home": {
+    "gameTag": "Demo",
+    "apiTitle": "Akses Cepat untuk Pengembang",
+    "apiDesc": "Game bisa terintegrasi dengan mudah cukup dengan beberapa baris kode. Pengembang bisa menghasilkan lebih cepat menggunakan API milik kami dan fokus ke hal yang lebih penting",
+    "apiButton": "Dokumentasi API",
+    "processTitle": "Proses docking VDDGAMES",
+    "processStep1": "Docking Bisnis",
+    "processStep2": "Docking API",
+    "processStep3": "Tes Verifikasi",
+    "processStep4": "Mulai online",
+    "processButton": "Lihat dokumentasi"
+  },
+  "game": {
+    "aviator": "AVIATOR",
+    "hilo": "HILO",
+    "mines": "RANJAU",
+    "plinko": "PLINKO",
+    "hotline": "HOTLINE",
+    "goal": "GOAL",
+    "miniRoulette": "ROLET MINI",
+    "keno": "KENO",
+    "dice": "DADU",
+    "roulette": "ROLET",
+    "scratch": "GOSOK"
+  },
+  "common": {
+    "close": "Tutup"
+  },
+  "contact": {
+    "hello": "Halo",
+    "title": "Hubungi kami",
+    "desc": "Setelah menerima pengajuanmu, kami akan menghubungimu sesegera mungkin",
+    "form": {
+      "label1": "Nama",
+      "placeholder1": "Masukkan nama",
+      "label2": "Email",
+      "placeholder2": "Masukkan email",
+      "label3": "Pesan",
+      "placeholder3": "Tuliskan yang mau kamu katakan",
+      "submit": "Kirim"
+    },
+    "other": {
+      "title": "Info kontak lainnya",
+      "telegram": "Telegram",
+      "telegramDesc": "t.me/CS_9194",
+      "email": "Email",
+      "emailDesc": "vddcs9194{'@'}gmail.com"
+    },
+    "successMessage": "Berhasil terkirim",
+    "errorMessage": "Gagal terkirim"
+  }
+}
